@@ -1,4 +1,4 @@
-/* PM9 Site Content Config (admin export) — 2026-11-13T07:46 */
+/* PM9 Site Content Config (admin direct-write) — 2026-11-13T08:00 */
 window.PM9_CONFIG = {
  "version": 1,
  "updated": "2026-11-05",
