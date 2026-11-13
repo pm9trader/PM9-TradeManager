@@ -1,4 +1,5 @@
 # PM9 Trade Manager for MetaTrader 5
+https://youtu.be/FL1FfNEaOyk?si=9h2vuapMRoCs1MLm
 
 ### Advanced Position Management. Complete Trading Control.
 
