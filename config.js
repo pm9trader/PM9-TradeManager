@@ -5,7 +5,7 @@ window.PM9_CONFIG = {
  "general": {
   "telegram_url": "https://t.me/pm9trader",
   "version_label": "v19.26",
-  "page_title": "PM9 Trade Manager v19.13 — اکسپرت حرفه‌ای مدیریت معاملات متاتریدر ۵",
+  "page_title": "PM9 Trade Manager v19.26 — اکسپرت حرفه‌ای مدیریت معاملات متاتریدر ۵",
   "meta_desc": "PM9 Trade Manager — یکی از بهترین اکسپرت‌های مدیریت معاملات متاتریدر ۵ برای اسکلپرها، فست‌اسکلپرها و پراپ‌تریدرها: تنظیم SL/TP در کسری از ثانیه، تریل سود در حد سود و حد ضرر، تایمر مدت پوزیشن، پراپ‌گارد دراداون روزانه و پندینگ بصری.",
   "support_email": "pm9support@gmail.com",
   "support_phone": ""
