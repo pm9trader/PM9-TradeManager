@@ -1,11 +1,11 @@
-/* PM9 Site Content Config (admin export) — 2026-11-13T12:40 */
+/* PM9 Site Content Config (admin export) — 2026-11-15T19:58 */
 window.PM9_CONFIG = {
  "version": 1,
  "updated": "2026-11-05",
  "general": {
   "telegram_url": "https://t.me/pm9trader",
-  "version_label": "v19.26",
-  "page_title": "PM9 Trade Manager v19.26 — اکسپرت حرفه‌ای مدیریت معاملات متاتریدر ۵",
+  "version_label": "v19.29",
+  "page_title": "PM9 Trade Manager v19.29 — اکسپرت حرفه‌ای مدیریت معاملات متاتریدر ۵",
   "meta_desc": "PM9 Trade Manager — یکی از بهترین اکسپرت‌های مدیریت معاملات متاتریدر ۵ برای اسکلپرها، فست‌اسکلپرها و پراپ‌تریدرها: تنظیم SL/TP در کسری از ثانیه، تریل سود در حد سود و حد ضرر، تایمر مدت پوزیشن، پراپ‌گارد دراداون روزانه و پندینگ بصری.",
   "support_email": "pm9support@gmail.com",
   "support_phone": ""
@@ -21,8 +21,8 @@ window.PM9_CONFIG = {
   },
   "en": {
    "label": "Lifetime License  : 349$",
-   "now": "1 Year : 149$",
-   "old": "179 $ 1Year",
+   "now": "Monthly : $19  | Annual : 149$",
+   "old": "179 $ Annual",
    "note": "### Crypto Payments & License Activation\n\nPayment for your PM9 Trade Manager license is accepted via cryptocurrency, including USDT (Tether).\n\nTo purchase a license:\n\n1. Email us your **Hardware ID** and the required information displayed on the **License** page of the software.\n2. Complete the payment and send us the transaction link (TXID).\n3. After verifying your payment, we will generate and send your license.\n\n**Contact:** pm9support@gmail.com",
    "mail_note": "To buy a license, email us:"
   }
