@@ -1,0 +1,47 @@
+{
+  "version": "19.41",
+  "contactEmail": "pm9support@gmail.com",
+  "telegramUrl": "https://t.me/pm9trader",
+  "pricing": {
+    "en": {
+      "lifetime": 349,
+      "annualWas": 179,
+      "annual": 149,
+      "monthly": 19
+    },
+    "fa": {
+      "lifetime": "",
+      "annualWas": "",
+      "annual": "",
+      "monthly": ""
+    }
+  },
+  "payment": {
+    "en": {
+      "title": "Crypto Payments & License Activation",
+      "intro": "Payment for your PM9 Trade Manager license is accepted via cryptocurrency, including USDT (Tether).",
+      "stepsLabel": "To purchase a license:",
+      "step1Title": "Send your license details",
+      "step1": "Email us your Hardware ID and the required information displayed on the License page of the software.",
+      "step2Title": "Complete the payment",
+      "step2": "Complete the payment and send us the transaction link (TXID).",
+      "step3Title": "Receive your license",
+      "step3": "After verifying your payment, we will generate and send your license.",
+      "contactLabel": "Contact:",
+      "secureNote": "License is issued after payment verification."
+    },
+    "fa": {
+      "title": "پرداخت رمزارزی و فعال‌سازی لایسنس",
+      "intro": "پرداخت لایسنس PM9 Trade Manager از طریق رمزارز، از جمله USDT (تتر)، پذیرفته می‌شود.",
+      "stepsLabel": "برای خرید لایسنس:",
+      "step1Title": "ارسال اطلاعات لایسنس",
+      "step1": "شناسه سخت‌افزاری (Hardware ID) و اطلاعات موردنیاز نمایش‌داده‌شده در صفحه License نرم‌افزار را برای ما ایمیل کنید.",
+      "step2Title": "انجام پرداخت",
+      "step2": "پرداخت را انجام دهید و لینک تراکنش (TXID) را برای ما ارسال کنید.",
+      "step3Title": "دریافت لایسنس",
+      "step3": "پس از تأیید پرداخت، لایسنس شما صادر و از طریق ایمیل ارسال می‌شود.",
+      "contactLabel": "تماس:",
+      "secureNote": "لایسنس پس از تأیید پرداخت صادر می‌شود."
+    }
+  }
+}
