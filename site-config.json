@@ -1,13 +1,13 @@
 {
-  "version": "19.41",
+  "version": "19.47",
   "contactEmail": "pm9support@gmail.com",
   "telegramUrl": "https://t.me/pm9trader",
   "pricing": {
     "en": {
-      "lifetime": 349,
-      "annualWas": 179,
-      "annual": 149,
-      "monthly": 19
+      "lifetime": 189,
+      "annualWas": 120,
+      "annual": 89,
+      "monthly": 12
     },
     "fa": {
       "lifetime": "",
